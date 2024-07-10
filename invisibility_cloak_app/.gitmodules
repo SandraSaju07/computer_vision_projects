@@ -1,3 +1,0 @@
-[submodule "submodule_folder"]
-    path = submodule_folder
-    url = https://github.com/your_username/new_repository.git
